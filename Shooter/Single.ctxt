@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=s\ x\ y\ d\ actor
-comment0.target=Single(int,\ int,\ int,\ double,\ greenfoot.Actor)
-comment0.text=\r\n\ Create\ a\ single\ laser\ weapon\ with\ the\ specified\ location\ and\ speed.\r\n\ \r\n\ @param\ s\ The\ speed\ that\ single\ travels.\r\n\ @param\ x\ The\ x\ location\ within\ the\ world.\r\n\ @param\ y\ The\ y\ location\ within\ the\ world.\r\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Level1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
-numComments=2
